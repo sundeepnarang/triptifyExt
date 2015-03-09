@@ -1,0 +1,15 @@
+/*  Read about this page here: https://developer.chrome.com/extensions/content_scripts.html */
+
+.triptify-plus {
+    background: green;
+    color: white;
+    position: relative;
+    float: right;
+    width: 35px;
+    height: 35px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    right: -36px;
+    border-radius: 0px 10px 10px 0px;
+}
