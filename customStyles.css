@@ -13,3 +13,17 @@
     right: -36px;
     border-radius: 0px 10px 10px 0px;
 }
+
+.triptify-plus-flight {
+    background: green;
+    color: white;
+    position: relative;
+    float: right;
+    width: 35px;
+    height: 35px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    right: 0px;
+    border-radius: 10px 0px 0px 10px;
+}

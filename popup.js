@@ -18,7 +18,7 @@ $(function(){
 
             }
         };
-        xmlhttp.open("POST","http://triptify.co:3000/extLogin",true);
+        xmlhttp.open("POST","http://triptify.co/extLogin",true);
         xmlhttp.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
 
         xmlhttp.send(form);
